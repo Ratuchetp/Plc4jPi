@@ -1,0 +1,75 @@
+<component name="ArtifactManager">
+  <artifact name="Plc4jPi:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Plc4jPi_jar</output-path>
+    <root id="root">
+      <element id="archive" name="Plc4jPi.jar">
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+        </element>
+        <element id="module-output" name="Plc4jPi" />
+      </element>
+      <element id="library" level="project" name="Maven: org.apache.plc4x:plc4j-protocol-modbus:0.3.1" />
+      <element id="library" level="project" name="Maven: org.objenesis:objenesis:2.6" />
+      <element id="library" level="project" name="Maven: org.apache.edgent:edgent-providers-direct:1.2.0" />
+      <element id="library" level="project" name="Maven: com.google.code.gson:gson:2.8.0" />
+      <element id="library" level="project" name="Maven: org.hamcrest:hamcrest-core:1.3" />
+      <element id="library" level="project" name="Maven: org.apache.edgent:edgent-api-window:1.2.0" />
+      <element id="library" level="project" name="Maven: org.apiguardian:apiguardian-api:1.0.0" />
+      <element id="library" level="project" name="Maven: org.mockito:mockito-junit-jupiter:2.22.0" />
+      <element id="library" level="project" name="Maven: org.junit.jupiter:junit-jupiter-api:5.1.1" />
+      <element id="library" level="project" name="Maven: io.dropwizard.metrics:metrics-core:3.1.2" />
+      <element id="library" level="project" name="Maven: org.apache.edgent:edgent-api-execution:1.2.0" />
+      <element id="library" level="project" name="Maven: io.netty:netty-resolver:4.1.23.Final" />
+      <element id="library" level="project" name="Maven: org.apache.plc4x:apache-edgent:0.3.1" />
+      <element id="library" level="project" name="Maven: org.apache.edgent:edgent-api-topology:1.2.0" />
+      <element id="library" level="project" name="Maven: se.koc:netty-transport-jserialcomm:1.0.0" />
+      <element id="library" level="project" name="Maven: org.apache.plc4x:plc4j-protocol-driver-base-serial:0.3.1" />
+      <element id="library" level="project" name="Maven: org.jvnet.staxex:stax-ex:1.8" />
+      <element id="library" level="project" name="Maven: org.apache.edgent:edgent-runtime-etiao:1.2.0" />
+      <element id="library" level="project" name="Maven: org.apache.edgent:edgent-api-oplet:1.2.0" />
+      <element id="library" level="project" name="Maven: org.apache.plc4x:plc4j-protocol-driver-base-test:0.3.1" />
+      <element id="library" level="project" name="Maven: javax.annotation:javax.annotation-api:1.3.2" />
+      <element id="library" level="project" name="Maven: org.apache.edgent:edgent-api-function:1.2.0" />
+      <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.7.16" />
+      <element id="library" level="project" name="Maven: org.apache.thrift:libthrift:0.9.3" />
+      <element id="library" level="project" name="Maven: org.apache.iotdb:service-rpc:0.8.0-SNAPSHOT" />
+      <element id="library" level="project" name="Maven: org.glassfish.jaxb:txw2:2.4.0-b180725.0644" />
+      <element id="library" level="project" name="Maven: io.netty:netty-buffer:4.1.23.Final" />
+      <element id="library" level="project" name="Maven: org.apache.iotdb:iotdb-jdbc:0.8.0-SNAPSHOT" />
+      <element id="library" level="project" name="Maven: ch.qos.logback:logback-classic:1.1.11" />
+      <element id="library" level="project" name="Maven: com.digitalpetri.modbus:modbus-core:1.1.0" />
+      <element id="library" level="project" name="Maven: org.apache.plc4x:plc4j-api:0.3.1" />
+      <element id="library" level="project" name="Maven: com.alibaba:fastjson:1.2.31" />
+      <element id="library" level="project" name="Maven: io.netty:netty-transport:4.1.23.Final" />
+      <element id="library" level="project" name="Maven: io.netty:netty-codec:4.1.23.Final" />
+      <element id="library" level="project" name="Maven: org.apache.plc4x:plc4j-driver-modbus:0.3.1" />
+      <element id="library" level="project" name="Maven: org.apache.plc4x:plc4j-protocol-driver-base-tcp:0.3.1" />
+      <element id="library" level="project" name="Maven: javax.activation:javax.activation-api:1.2.0" />
+      <element id="library" level="project" name="Maven: com.fazecast:jSerialComm:1.3.11" />
+      <element id="library" level="project" name="Maven: com.sun.istack:istack-commons-runtime:3.0.6" />
+      <element id="library" level="project" name="Maven: org.apache.edgent:edgent-spi-graph:1.2.0" />
+      <element id="library" level="project" name="Maven: junit:junit:4.12" />
+      <element id="library" level="project" name="Maven: org.glassfish.jaxb:jaxb-runtime:2.4.0-b180725.0644" />
+      <element id="library" level="project" name="Maven: org.hamcrest:hamcrest-library:1.3" />
+      <element id="library" level="project" name="Maven: commons-io:commons-io:2.6" />
+      <element id="library" level="project" name="Maven: org.apache.edgent:edgent-api-graph:1.2.0" />
+      <element id="library" level="project" name="Maven: ch.qos.logback:logback-core:1.1.11" />
+      <element id="library" level="project" name="Maven: org.apache.plc4x:plc4j-protocol-driver-base:0.3.1" />
+      <element id="library" level="project" name="Maven: org.apache.edgent:edgent-runtime-appservice:1.2.0" />
+      <element id="library" level="project" name="Maven: org.apache.edgent:edgent-spi-topology:1.2.0" />
+      <element id="library" level="project" name="Maven: org.apache.iotdb:tsfile:0.8.0-SNAPSHOT" />
+      <element id="library" level="project" name="Maven: org.xerial.snappy:snappy-java:1.0.5-M1" />
+      <element id="library" level="project" name="Maven: org.apache.edgent:edgent-runtime-jsoncontrol:1.2.0" />
+      <element id="library" level="project" name="Maven: net.bytebuddy:byte-buddy-agent:1.8.21" />
+      <element id="library" level="project" name="Maven: io.netty:netty-common:4.1.23.Final" />
+      <element id="library" level="project" name="Maven: com.digitalpetri.modbus:modbus-codec:1.1.0" />
+      <element id="library" level="project" name="Maven: javax.xml.bind:jaxb-api:2.4.0-b180725.0427" />
+      <element id="library" level="project" name="Maven: com.sun.xml.fastinfoset:FastInfoset:1.2.14" />
+      <element id="library" level="project" name="Maven: org.junit.platform:junit-platform-commons:1.1.1" />
+      <element id="library" level="project" name="Maven: org.apache.commons:commons-lang3:3.8.1" />
+      <element id="library" level="project" name="Maven: org.mockito:mockito-core:2.22.0" />
+      <element id="library" level="project" name="Maven: org.opentest4j:opentest4j:1.0.0" />
+      <element id="library" level="project" name="Maven: net.bytebuddy:byte-buddy:1.8.21" />
+    </root>
+  </artifact>
+</component>
